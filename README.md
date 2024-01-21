@@ -46,6 +46,6 @@ A.Table of Contents
         Installation
         Usage
  3. Database
-        Connect with it mongodb://localhost:27017/radarsoft 
+        Connect with it mongodb://localhost:27017/"database-name" 
         
 Thanks.
